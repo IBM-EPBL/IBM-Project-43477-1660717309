@@ -12,4 +12,4 @@ To make the api's work properly update the android code by replacing the IP addr
 
 The video of the working is uploaded on youtube
 
-https://youtu.be/tHMNocrPJY4
+https://youtu.be/I-hO6WsknT4
